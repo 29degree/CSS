@@ -1,0 +1,20 @@
+CSS :
+* aturan yang digunakan untuk menampilkan elemen/tag HTML
+* Dibuat terpisah dengan html
+* Bertujuan untuk memisahkan konten dan style
+* 1 CSS dapat digunakan untuk banyak HTML
+* 1 halaman HTML dapat terlihat berbeda jika menggunakan CSS yang berbeda pula
+WEB :  WWW.CSSZENGARDEN.COM
+sintak CSS :
+selector {property: value;}
+h1 {color: blue;}
+h1
+{
+	font-size: 120px;
+	font-family: arial;
+	color: lightblue;
+	text-align: center;
+}
+selector : digunakan untuk memilih dan memanipulasi elemen spesifik pada HTML
+Elemen HTML : dipilih berdasarkan tag,id,class bahkan pola/pattern
+semakin kompleks struktur HTML, selector juga bisa semakin kompleks/spesifik
